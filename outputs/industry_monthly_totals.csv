@@ -1,0 +1,11 @@
+month,industry_total,mom_growth_pct,brands_with_registrations,top1_brand,top3_share_pct,top5_share_pct,is_partial_month
+2026-01,129277,,115,TVS Motor,66.68,83.449,False
+2026-02,118433,-8.388,120,TVS Motor,69.035,84.013,False
+2026-03,199585,68.521,115,TVS Motor,68.227,84.506,False
+2026-04,157885,-20.893,117,TVS Motor,65.818,83.768,False
+2026-05,172827,9.464,115,TVS Motor,64.406,84.389,False
+2026-06,195191,12.94,109,TVS Motor,62.784,82.362,False
+2026-07,205890,5.481,126,TVS Motor,64.362,82.458,False
+2026-08,184924,-10.183,115,TVS Motor,64.825,82.731,False
+2026-09,208690,12.852,115,TVS Motor,64.249,82.407,False
+2026-10,214683,2.872,110,TVS Motor,63.101,81.9,True

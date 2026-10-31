@@ -1,0 +1,11 @@
+month,is_partial_month,industry_total,rank1_brand,rank1_units,rank1_share_pct,rank2_brand,rank2_units,rank2_share_pct,rank3_brand,rank3_units,rank3_share_pct,rank4_brand,rank4_units,rank4_share_pct,rank5_brand,rank5_units,rank5_share_pct
+2026-01,False,129277,TVS Motor,36139,27.95,Bajaj Auto,26577,20.56,Ather Energy,23486,18.17,Hero MotoCorp (Vida),13868,10.73,Ola Electric,7811,6.04
+2026-02,False,118433,TVS Motor,33501,28.29,Bajaj Auto,26344,22.24,Ather Energy,21915,18.5,Hero MotoCorp (Vida),12977,10.96,Greaves Electric (Ampere),4762,4.02
+2026-03,False,199585,TVS Motor,51788,25.95,Bajaj Auto,47754,23.93,Ather Energy,36629,18.35,Hero MotoCorp (Vida),22202,11.12,Ola Electric,10289,5.16
+2026-04,False,157885,TVS Motor,40291,25.52,Bajaj Auto,34603,21.92,Ather Energy,29022,18.38,Hero MotoCorp (Vida),15940,10.1,Ola Electric,12401,7.85
+2026-05,False,172827,TVS Motor,43112,24.95,Bajaj Auto,39545,22.88,Ather Energy,28654,16.58,Hero MotoCorp (Vida),19229,11.13,Ola Electric,15307,8.86
+2026-06,False,195191,TVS Motor,47477,24.32,Bajaj Auto,43542,22.31,Ather Energy,31529,16.15,Hero MotoCorp (Vida),21919,11.23,Ola Electric,16296,8.35
+2026-07,False,205890,TVS Motor,55896,27.15,Bajaj Auto,45911,22.3,Ather Energy,30708,14.91,Hero MotoCorp (Vida),23014,11.18,Ola Electric,14244,6.92
+2026-08,False,184924,TVS Motor,49337,26.68,Bajaj Auto,41376,22.37,Ather Energy,29164,15.77,Hero MotoCorp (Vida),19165,10.36,Ola Electric,13948,7.54
+2026-09,False,208690,TVS Motor,54400,26.07,Bajaj Auto,48740,23.36,Ather Energy,30942,14.83,Hero MotoCorp (Vida),24436,11.71,Ola Electric,13458,6.45
+2026-10,True,214683,TVS Motor,58428,27.22,Bajaj Auto,46659,21.73,Ather Energy,30380,14.15,Hero MotoCorp (Vida),28745,13.39,Ola Electric,11614,5.41
